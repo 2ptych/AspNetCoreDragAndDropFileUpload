@@ -1,0 +1,9 @@
+﻿.drag-and-drop-area {
+    border: 6px dashed #39b0e3;
+    width: 145px;
+    padding: 50px;
+    border-radius: 50px;
+}
+.on-drag-over {
+    border: 6px solid #29a0b3;
+}
